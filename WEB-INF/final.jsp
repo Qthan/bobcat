@@ -50,5 +50,9 @@
 			<% }
 			%>
 		</table>
+
+    <p>
+        <a href = 'http://localhost:8080/bobcat'>home</a>
+    </p>
     <jsp:include page="footer.jsp" />
 
